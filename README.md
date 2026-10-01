@@ -5,6 +5,7 @@
 I design, build and deploy web applications and AI agent systems, from the interface
 down to the infrastructure.
 
-This page says who I am — what I've built lives on [zamblezie.fr](https://zamblezie.fr/).
+This page says who I am — what I've built is on my site.
 
-Get in touch: jeandavidzamblezie@outlook.fr · [LinkedIn](https://www.linkedin.com/in/jean-david-zamblezie-84410b258/)
+Working on something you think I'd be good at?
+[zamblezie.fr](https://zamblezie.fr/?utm_source=github) · jeandavidzamblezie@outlook.fr
