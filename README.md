@@ -5,7 +5,7 @@
 I design, build and deploy web applications and AI agent systems, from the interface
 down to the infrastructure.
 
-This page says who I am — what I've built is on my site.
+![Jean-David Zamblezie — web apps and AI agents, shipped not sketched](https://raw.githubusercontent.com/fwBoa/fwBoa/main/banner.svg)
 
 Working on something you think I'd be good at?
-[zamblezie.fr](https://zamblezie.fr/?utm_source=github) · jeandavidzamblezie@outlook.fr
+[zamblezie.fr](https://zamblezie.fr/?utm_source=github) · `jeandavidzamblezie@outlook.fr`
